@@ -10,3 +10,5 @@ Java Application to help you create checklist documents with customizable design
  
  ### ```How to Run``` ###
  as long as you have Java installed on your device, the game can be opened by downloading and running the jar file! (adding jar soon...)
+
+Click here to see a [** demo**](https://youtu.be/cqYc-zjLlKE)!
